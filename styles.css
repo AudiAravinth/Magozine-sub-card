@@ -1,0 +1,164 @@
+body{
+    
+    background-color: black;
+}
+
+
+hr{
+    border:black solid 2px;
+    border-bottom: none;
+    border-left: none;
+    border-right:none;
+    
+}
+
+.card{
+    background-color: white;
+    height: 270px;
+    width: 500px;
+    position:relative;
+    margin:250px 500px 250px 500px;
+}
+
+.magozine{
+    height:255px;
+    width:485px;
+    border:black solid 3px;
+    position:absolute;
+    margin-top: 4px;
+    margin-left:4px;
+    margin-right: 3px; 
+}
+
+.para{
+    background-color: red;
+    color: white;
+    text-align:center;
+    font-weight: bold;
+    height: 30px;
+    position: relative;
+    margin-top:-15px;
+    margin-left: 3px;
+    margin-right:3px;
+}
+
+.yes{
+    padding:5px;
+    font-size: 20px;
+}
+
+.name{
+    width:40%;
+    position: relative;
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+.joe{
+    font-family: cursive;
+    text-align: center;
+    margin-bottom:-20px;
+}
+
+.first{
+    margin-top: -17px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.name-one{
+    width:40%;
+    position: relative;
+    margin-left: 20px;
+    float:right;
+    margin-right:20px;
+    margin-top:-54px;
+    
+}
+
+.Schmegeggie{
+    font-family: cursive;
+    text-align: center;
+    margin-bottom:-20px;
+    margin-top:-15px;
+}
+
+.last{
+    margin-top: -17px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.name-two{
+    width:90%;
+    margin-left:20px;
+    margin-top:-15px;
+}
+
+.street{
+    font-family: cursive;
+    text-align:left;
+    margin-bottom: -20px;
+    margin-left:40px;
+}
+
+ .name-three{
+     width:25%;
+     margin-left: 20px;
+     margin-top: -15px;
+ }
+
+ .ant{
+     font-family: cursive;
+     text-align: center;
+     margin-bottom: -20px;
+ }
+
+ .name-four{
+     width:25%;
+     position: relative;
+     margin-left:180px;
+     margin-top:-53px;
+ }
+
+ .ca{
+     font-family: cursive;
+     text-align: center;
+     margin-bottom: -20px;
+ }
+
+ .name-five{
+      width: 25%;
+      position:relative;
+      margin-left:340px;
+      margin-top: -53px;
+ }
+ 
+ .num{
+     font-family: cursive;
+     text-align: center;
+     margin-bottom: -20px;
+ }
+
+ .form{
+     margin-left: 20px;
+     margin-right: 20px; 
+     margin-top: -15px;
+ }
+
+ .check{
+     color: black;
+     
+ }
+
+ .info{
+     margin-left:20px;
+     margin-top:-1px;
+ }
+
+ .form-one{
+     margin-left:25px;
+     margin-top:-15px;
+     font-size: 16px;
+ }
+
+
+ 
